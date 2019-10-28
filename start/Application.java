@@ -1,4 +1,4 @@
-package clinic.programming.training;
+package study.programming.training;
 
 public class Application {
     
